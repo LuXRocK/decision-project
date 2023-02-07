@@ -1,0 +1,8 @@
+6 3 % n=6 przykładow, d=3 atrybuty
+waga wyskok wzrost % nazwy atrybutow
+50.1 40.8 195.9 koszykowka
+60.9 45.5 187.4 koszykowka
+100.1 51.6 197 lekkoatletyka
+89.5 55 176.2 koszykowka
+67.7 49.4 178.6 koszykowka
+100 40.2 195 sumo
